@@ -10,7 +10,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hirushakeeth/.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PercyOfficial/Ghosts-Hogwarts.git)
 
 
 
@@ -39,7 +39,7 @@
 ```
 4) Click Deploy
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PercyOfficial/Ghosts-Hogwarts.git)
 ```
 5) Give an app name
 
