@@ -25,13 +25,13 @@
       "value": ""
     },
     "DAISY_IMG": {
-      "description": "Daisy's Logo.. Telegra.ph only",
-      "value": "https://telegra.ph/file/4be7c7a8a1a9f50b73d21.jpg"
+      "description": "බුත's Logo.. Telegra.ph only",
+      "value": "https://telegra.ph/file/72b7754fddb6c44ecb0a5.jpg"
     },
     
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1141839926"
+      "value": "1506444772"
     },
     
     "TL_APP_ID": {
@@ -50,7 +50,7 @@
     
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "InukaASiTH"
+      "value": "percy_jackson_4"
     },
     
     
@@ -65,15 +65,15 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1141839926"
+      "value": "1506444772"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1141839926"
+      "value": "1506444772"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "1141839926"
+      "value": "1506444772"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
