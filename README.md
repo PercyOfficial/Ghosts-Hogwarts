@@ -252,6 +252,7 @@ through the `/stats` command, which is only available to the bot owner.
 - All [Hogwarts](https://t.me/joinchat/wPEojnfzfdcwMmU1) admins 😍
 
 Thanks to this user:
+- [InukaAsith](https://github.com/InukaAsith) - Real Creater Of this repo
 - [Arya Hikari](https://github.com/Aryahikari) - The Emilia Bot Owner
 - [Paul Larsen](https://github.com/PaulSonOfLars) - marie creator, inspiration to do many things
 
